@@ -36,3 +36,17 @@ print("today is holiday")
 4
 5
 # DAY 2 OF CODING....
+
+
+
+
+
+
+# Day 2 - my First Program
+# Today i will write my first ever python program from scratch. It will consist of a bunch of print statements. print can be used to print something on the console in python
+
+
+print("hello world", 44)
+print(4)
+print(455*444)
+print(55+62)
